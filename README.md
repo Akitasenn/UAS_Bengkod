@@ -193,24 +193,12 @@ Aplikasi akan terbuka di browser pada `http://localhost:8501`
 - Improvement dari baseline: +X.XX%
 - Feature importance top 5: [list fitur]
 
-### Business Recommendations:
-1. [Rekomendasi 1]
-2. [Rekomendasi 2]
-3. [Rekomendasi 3]
-
-## 🔗 Links
-
-- 🌐 **Live Demo:** [https://your-app.streamlit.app](https://your-app.streamlit.app)
-- 📊 **GitHub Repository:** [https://github.com/username/telco-churn-prediction](https://github.com/username/telco-churn-prediction)
-- 📓 **Kaggle Dataset:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-
 ## 👨‍💻 Developer
 
-**Nama:** [Nama Anda]  
-**NIM:** [NIM Anda]  
-**Program Studi:** [Prodi Anda]  
-**Email:** [email@example.com]  
-**LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username)
+**Nama:** [Daffa Setya Ramadhan]  
+**NIM:** [A11.2022.14042]  
+**Program Studi:** [Teknik Informatika]  
+**Email:** [111202214042@mhs.dinus.ac.id]  
 
 ## 📝 License
 
@@ -221,14 +209,6 @@ This project is created for educational purposes as part of UAS requirements for
 - Dataset dari [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Tim Dosen Bengkel Koding Data Science
 - Asisten praktikum yang telah membimbing
-
-## 📞 Contact & Support
-
-Jika ada pertanyaan atau masalah, silakan:
-- 📧 Email: [email@example.com]
-- 💬 Create an issue di GitHub
-- 📱 WhatsApp: [nomor]
-
 ---
 
 ⭐ **Jika project ini bermanfaat, jangan lupa berikan star di GitHub!**
